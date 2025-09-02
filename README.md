@@ -54,7 +54,7 @@ The dataset contains customer restaurant reviews with text labels (`positive` or
     ```bash
     pip install -r requirements.txt
 
-3. Run the Jupyter Notebook or Python script:
+3. Run the Jupyter Notebook:
     ```bash
     jupyter notebook sentiment_analysis.ipynb
 
